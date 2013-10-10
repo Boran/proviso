@@ -2,6 +2,10 @@
 [![Build
 Status](https://travis-ci.org/proviso/proviso.png)](https://travis-ci.org/proviso/proviso)
 
+NOTE on Sean's fork of tizzo's branch: 
+- adding fixes ideas for the puppet side of things. A summary will be added here
+/NOTE
+
 Proviso aims to be an SDK+API to provision platform-independent local
 VMs for Drupal development. The project seeks to develop an extensible
 framework and ecosystem for developers to achieve parity with multiple
